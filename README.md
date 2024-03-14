@@ -52,8 +52,10 @@
 ### Duplicação do Código:
 - O código se repete em duas seções ``<script>`` separadas. Isso é redundante e alcança o mesmo resultado que ter em apenas uma seção ``<script>``.
 
-### Resultado final:
-- Devido à duplicação do código, o texto "Terminal Bash" seria exibido duas vezes na página da web.
+#### ``Resultado final: Devido à duplicação do código, o texto "Terminal Bash" seria exibido duas vezes na página da web.``
 
+## Autor(a)
+|  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/140712281?v=4" width=115><br><sub>Ana Santos</sub>](https://github.com/AnaLu1za) |  
+| :---: |
 
 
